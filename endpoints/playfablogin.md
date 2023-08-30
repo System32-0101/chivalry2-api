@@ -39,4 +39,4 @@ Returns some information about the account
 ## Request
 | URL | Method |
 | - | - |
-| `POST` | /:namespace/api/cloudstorage/system/config |
+| `POST` | https://EBF8D.playfabapi.com/Client/LoginWithSteam?sdk=Chiv2_Version |
